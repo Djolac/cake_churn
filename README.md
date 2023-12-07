@@ -3,6 +3,7 @@
 File cake_churn_model consisits of models created for the problem of churn on CAKE data.
 
 Problem descruption is given with 
+
 TASK A (Churn Classification)
 At its core, churn prediction is a classification problem, where the classes often are ‘churned’ and ‘active’. The prediction is based on historical data, including customer behavior, demographics, transaction history, and more.
 
